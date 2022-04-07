@@ -1,0 +1,27 @@
+h1{color:rgb(32, 75, 55);
+font-size: 53px;}
+body{background-color: rgb(172, 206, 162);}
+p{color:rgb(70, 119, 74);
+font-size: 29px;}
+.menu{background-color: rgb(113, 146, 104);
+width: 12%;
+height: 100%;
+position: absolute;
+padding:3%;}
+.main{width:74%;  
+margin-left:20%;
+padding:3%;
+}
+.menu li{
+font-size:20px;
+width:100%;
+padding-left: 6px;
+padding-right:6px;
+padding-top:10px;
+padding-bottom:10px;
+
+}
+.menu a{
+    color: rgb(17, 78, 27);
+}
+.menu a:hover{color:rgb(194, 166, 115);}
